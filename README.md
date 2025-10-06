@@ -26,7 +26,7 @@ python app.py
 
 ## Small Demo
 
-https://github.com/Gelmi/RO11-TP4/raw/refs/heads/main/demo.mp4
+https://github.com/Gelmi/RO11-TP4/blob/main/demo.mp4
 
 ## Performance
 
